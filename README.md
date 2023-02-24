@@ -14,6 +14,6 @@ If you would like to cite our work, you can do so in two ways：
   year={2022},
 }
 
-(2)Harvest style
+(2)Harvest style：
 Cairong Yan, Haixia Han, Yanting Zhang, Dandan Zhu, Yongquan Wan, “Dynamic clustering based contextual combinatorial multi-armed bandit for online recommendation,” Knowledge-Based Systems, 257: 1-13, 2022.
 
